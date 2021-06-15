@@ -1,5 +1,5 @@
 `Project Name:` `Project Ecommerce Part-01` \
-`LIVE LINK:` https://ecommerce-project-emajohn-one-initial.netlify.app/
+`Live Link:` https://ecommerce-project-emajohn-one-initial.netlify.app/
 
 
 ### Using Method In This Project:
