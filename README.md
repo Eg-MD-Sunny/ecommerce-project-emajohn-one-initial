@@ -2,20 +2,20 @@
 `LIVE LINK:` https://ecommerce-project-emajohn-one-initial.netlify.app/
 
 
-### Using Method In This Project:\
-01.  Data Load Using API. \
-02.  Dynamic Data Load & Data Receive using Props. \
-03.  eventHandelar add in Button. \
-04.  Tax, Shipping & Total Amount Calculate. \
+### Using Method In This Project:
+01.  Data Load Using API. 
+02.  Dynamic Data Load & Data Receive using Props. 
+03.  eventHandelar add in Button. 
+04.  Tax, Shipping & Total Amount Calculate. 
 05.  Favicon Add.  
 
 
-### Using Commend In this Project: \
-01.  npx create-react-app project-name\
-02.  cd project-name\
-03.  npm start\
-04.  npm i --save @fortawesome/fontawesome-svg-core\
-05.  npm install --save @fortawesome/free-solid-svg-icons\
+### Using Commend In this Project: 
+01.  npx create-react-app project-name
+02.  cd project-name
+03.  npm start
+04.  npm i --save @fortawesome/fontawesome-svg-core
+05.  npm install --save @fortawesome/free-solid-svg-icons
 06.  npm install --save @fortawesome/react-fontawesome       
 
 
