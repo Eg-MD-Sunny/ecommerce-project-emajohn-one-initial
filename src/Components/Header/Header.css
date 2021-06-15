@@ -1,0 +1,24 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+/*====>>Nav Ber Style [Start]<<====*/
+.header nav{
+    background-color: #000;
+    font-size: 18px;
+    line-height: 40px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 7px;
+    color:#fff;
+}
+nav a:hover{
+    background-color:#fff;
+    color:#000;
+    transition: all 0.3s ease;
+}
+/*====>>Nav Ber Style [End]<<====*/

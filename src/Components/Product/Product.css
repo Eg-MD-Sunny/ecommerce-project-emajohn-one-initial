@@ -1,0 +1,29 @@
+.product{
+    display:flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.right-container{
+    margin-left: 5%;
+}
+.left-container{
+    margin-left: 5%;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.main-button{
+    background-color: rgb(248, 203, 23);
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgb(185, 228, 100);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.position-shift{
+    margin-right: 10px;
+}
